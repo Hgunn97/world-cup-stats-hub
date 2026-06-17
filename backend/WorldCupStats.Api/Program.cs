@@ -40,7 +40,7 @@ builder.Services.AddCors(opts =>
         .AllowAnyHeader());
 
     opts.AddPolicy("Production", p => p
-        .WithOrigins("https://hannahgunn97.github.io")
+        .WithOrigins("https://hgunn97.github.io")
         .AllowAnyMethod()
         .AllowAnyHeader());
 });
