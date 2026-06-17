@@ -31,11 +31,9 @@ builder.Services.AddScoped<IWallChartService, WallChartService>();
 builder.Services.AddCors(opts =>
 {
     opts.AddPolicy("LocalDev", p => p
-        .WithOrigins(
-            "http://localhost:3000",
-            "http://localhost:5000",
-            "http://localhost:5050",
-            "http://localhost:8080")
+        .SetIsOriginAllowed(origin =>
+            Uri.TryCreate(origin, UriKind.Absolute, out var uri) &&
+            uri.Host == "localhost")
         .AllowAnyMethod()
         .AllowAnyHeader());
 

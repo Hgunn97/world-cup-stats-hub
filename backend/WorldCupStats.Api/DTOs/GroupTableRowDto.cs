@@ -5,6 +5,7 @@ public class GroupTableRowDto
     public int Position { get; set; }
     public int TeamId { get; set; }
     public string TeamName { get; set; } = string.Empty;
+    public string CountryCode { get; set; } = string.Empty;
     public string GroupCode { get; set; } = string.Empty;
     public int Played { get; set; }
     public int Won { get; set; }

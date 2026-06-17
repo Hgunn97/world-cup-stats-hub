@@ -5,8 +5,10 @@ class Match {
   final String? groupCode;
   final int? homeTeamId;
   final String? homeTeamName;
+  final String? homeTeamCountryCode;
   final int? awayTeamId;
   final String? awayTeamName;
+  final String? awayTeamCountryCode;
   final int? homeScore;
   final int? awayScore;
   final String status;
@@ -24,8 +26,10 @@ class Match {
       this.groupCode,
       this.homeTeamId,
       this.homeTeamName,
+      this.homeTeamCountryCode,
       this.awayTeamId,
       this.awayTeamName,
+      this.awayTeamCountryCode,
       this.homeScore,
       this.awayScore,
       required this.status,
@@ -43,8 +47,10 @@ class Match {
         groupCode: json['groupCode'] as String?,
         homeTeamId: json['homeTeamId'] as int?,
         homeTeamName: json['homeTeamName'] as String?,
+        homeTeamCountryCode: json['homeTeamCountryCode'] as String?,
         awayTeamId: json['awayTeamId'] as int?,
         awayTeamName: json['awayTeamName'] as String?,
+        awayTeamCountryCode: json['awayTeamCountryCode'] as String?,
         homeScore: json['homeScore'] as int?,
         awayScore: json['awayScore'] as int?,
         status: json['status'] as String,

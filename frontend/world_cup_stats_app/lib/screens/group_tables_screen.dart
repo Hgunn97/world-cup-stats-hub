@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import '../models/group_table_model.dart';
 import '../services/api_service.dart';
+import '../utils/flag_utils.dart';
 import '../widgets/loading_view.dart';
 import '../widgets/error_view.dart';
 
@@ -202,29 +204,29 @@ class _StatsTable extends StatelessWidget {
 
     final colWidths = showGroup
         ? const {
-            0: FixedColumnWidth(24),
-            1: FlexColumnWidth(),
-            2: FixedColumnWidth(32),
-            3: FixedColumnWidth(28),
-            4: FixedColumnWidth(28),
-            5: FixedColumnWidth(28),
-            6: FixedColumnWidth(28),
-            7: FixedColumnWidth(36),
-            8: FixedColumnWidth(36),
-            9: FixedColumnWidth(36),
-            10: FixedColumnWidth(32),
-          }
-        : const {
-            0: FixedColumnWidth(24),
+            0: FixedColumnWidth(26),
             1: FlexColumnWidth(),
             2: FixedColumnWidth(28),
-            3: FixedColumnWidth(28),
-            4: FixedColumnWidth(28),
-            5: FixedColumnWidth(28),
-            6: FixedColumnWidth(36),
-            7: FixedColumnWidth(36),
-            8: FixedColumnWidth(36),
-            9: FixedColumnWidth(32),
+            3: FixedColumnWidth(24),
+            4: FixedColumnWidth(24),
+            5: FixedColumnWidth(24),
+            6: FixedColumnWidth(24),
+            7: FixedColumnWidth(28),
+            8: FixedColumnWidth(28),
+            9: FixedColumnWidth(28),
+            10: FixedColumnWidth(28),
+          }
+        : const {
+            0: FixedColumnWidth(26),
+            1: FlexColumnWidth(),
+            2: FixedColumnWidth(24),
+            3: FixedColumnWidth(24),
+            4: FixedColumnWidth(24),
+            5: FixedColumnWidth(24),
+            6: FixedColumnWidth(28),
+            7: FixedColumnWidth(28),
+            8: FixedColumnWidth(28),
+            9: FixedColumnWidth(28),
           };
 
     return Table(
@@ -299,15 +301,29 @@ class _StatsTable extends StatelessWidget {
             ],
           ),
         ),
-        // Team name
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 6),
-          child: Text(
-            row.teamName,
-            style: theme.textTheme.bodySmall?.copyWith(
-              fontWeight: qualifies ? FontWeight.w600 : FontWeight.normal,
+        // Team name (tappable)
+        GestureDetector(
+          onTap: () => context.push(
+            '/teams/${row.teamId}?name=${Uri.encodeComponent(row.teamName)}&group=${row.groupCode}',
+          ),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(vertical: 4),
+            child: Row(
+              children: [
+                TeamFlag(countryCode: row.countryCode, height: 13),
+                const SizedBox(width: 5),
+                Flexible(
+                  child: Text(
+                    row.teamName,
+                    style: theme.textTheme.bodySmall?.copyWith(
+                      fontWeight: qualifies ? FontWeight.w600 : FontWeight.normal,
+                    ),
+                    overflow: TextOverflow.ellipsis,
+                    maxLines: 1,
+                  ),
+                ),
+              ],
             ),
-            overflow: TextOverflow.ellipsis,
           ),
         ),
         // Group column (only in 3rd place table)

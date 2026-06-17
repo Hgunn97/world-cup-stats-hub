@@ -6,6 +6,7 @@ import 'screens/match_detail_screen.dart';
 import 'screens/group_tables_screen.dart';
 import 'screens/stats_screen.dart';
 import 'screens/wall_chart_screen.dart';
+import 'screens/team_detail_screen.dart';
 
 final _shellKey = GlobalKey<NavigatorState>();
 
@@ -26,6 +27,14 @@ final appRouter = GoRouter(
       path: '/matches/:id',
       builder: (context, state) =>
           MatchDetailScreen(matchId: int.parse(state.pathParameters['id']!)),
+    ),
+    GoRoute(
+      path: '/teams/:teamId',
+      builder: (context, state) => TeamDetailScreen(
+        teamId: int.parse(state.pathParameters['teamId']!),
+        teamName: state.uri.queryParameters['name'] ?? '',
+        groupCode: state.uri.queryParameters['group'] ?? '',
+      ),
     ),
   ],
 );
