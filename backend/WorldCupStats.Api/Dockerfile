@@ -19,6 +19,8 @@ COPY --from=build /app/publish .
 
 ENV ASPNETCORE_ENVIRONMENT=Production
 
-EXPOSE 8080
+# PORT env var is injected by the host (e.g. Render) at runtime.
+# EXPOSE is metadata only — the actual binding comes from Program.cs UseUrls.
+EXPOSE 5050
 
 ENTRYPOINT ["dotnet", "WorldCupStats.Api.dll"]
