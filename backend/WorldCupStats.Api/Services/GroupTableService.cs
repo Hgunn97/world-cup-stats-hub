@@ -48,6 +48,7 @@ public class GroupTableService(AppDbContext db) : IGroupTableService
         {
             TeamId = t.Id,
             TeamName = t.Name,
+            CountryCode = t.CountryCode,
             GroupCode = groupCode
         });
 

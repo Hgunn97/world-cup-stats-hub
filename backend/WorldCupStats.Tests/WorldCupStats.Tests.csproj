@@ -25,4 +25,13 @@
     <ProjectReference Include="..\WorldCupStats.Api\WorldCupStats.Api.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="..\WorldCupStats.Api\SeedData\teams.json"
+          CopyToOutputDirectory="PreserveNewest"
+          Link="SeedData\teams.json" />
+    <None Update="..\WorldCupStats.Api\SeedData\matches.json"
+          CopyToOutputDirectory="PreserveNewest"
+          Link="SeedData\matches.json" />
+  </ItemGroup>
+
 </Project>

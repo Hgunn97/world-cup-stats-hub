@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import '../models/match_model.dart';
 import '../services/api_service.dart';
+import '../utils/flag_utils.dart';
 import '../utils/time_utils.dart';
 import '../widgets/loading_view.dart';
 import '../widgets/error_view.dart';
@@ -186,17 +187,32 @@ class _ScorePanel extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final homeWon = match.winnerTeamId == match.homeTeamId;
+    final awayWon = match.winnerTeamId == match.awayTeamId;
+
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
+        // Home team: name right-aligned then flag
         Expanded(
-          child: Text(match.homeDisplay,
-              textAlign: TextAlign.end,
-              style: theme.textTheme.titleMedium?.copyWith(
-                  fontWeight: match.winnerTeamId == match.homeTeamId
-                      ? FontWeight.bold
-                      : FontWeight.normal)),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.end,
+            children: [
+              Flexible(
+                child: Text(
+                  match.homeDisplay,
+                  textAlign: TextAlign.end,
+                  style: theme.textTheme.titleMedium?.copyWith(
+                    fontWeight: homeWon ? FontWeight.bold : FontWeight.normal,
+                  ),
+                ),
+              ),
+              const SizedBox(width: 8),
+              TeamFlag(countryCode: match.homeTeamCountryCode, height: 22),
+            ],
+          ),
         ),
+        // Central score or "vs"
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16),
           child: match.isFinished
@@ -204,12 +220,22 @@ class _ScorePanel extends StatelessWidget {
                   style: theme.textTheme.displaySmall?.copyWith(fontWeight: FontWeight.bold))
               : Text('vs', style: theme.textTheme.titleLarge),
         ),
+        // Away team: flag then name left-aligned
         Expanded(
-          child: Text(match.awayDisplay,
-              style: theme.textTheme.titleMedium?.copyWith(
-                  fontWeight: match.winnerTeamId == match.awayTeamId
-                      ? FontWeight.bold
-                      : FontWeight.normal)),
+          child: Row(
+            children: [
+              TeamFlag(countryCode: match.awayTeamCountryCode, height: 22),
+              const SizedBox(width: 8),
+              Flexible(
+                child: Text(
+                  match.awayDisplay,
+                  style: theme.textTheme.titleMedium?.copyWith(
+                    fontWeight: awayWon ? FontWeight.bold : FontWeight.normal,
+                  ),
+                ),
+              ),
+            ],
+          ),
         ),
       ],
     );

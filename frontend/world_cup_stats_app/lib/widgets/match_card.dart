@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import '../models/match_model.dart';
 import '../utils/time_utils.dart';
+import '../utils/flag_utils.dart';
 
 class MatchCard extends StatelessWidget {
   final Match match;
@@ -39,32 +40,65 @@ class MatchCard extends StatelessWidget {
               const SizedBox(height: 10),
               Row(
                 children: [
+                  // Home team
                   Expanded(
-                    child: Text(match.homeDisplay,
-                        style: theme.textTheme.titleMedium?.copyWith(
-                            fontWeight: match.winnerTeamId == match.homeTeamId
-                                ? FontWeight.bold
-                                : FontWeight.normal)),
+                    child: Row(
+                      children: [
+                        TeamFlag(countryCode: match.homeTeamCountryCode, height: 16),
+                        const SizedBox(width: 6),
+                        Expanded(
+                          child: Text(
+                            match.homeDisplay,
+                            style: theme.textTheme.titleSmall?.copyWith(
+                              fontWeight: match.winnerTeamId == match.homeTeamId
+                                  ? FontWeight.bold
+                                  : FontWeight.normal,
+                            ),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
-                  if (match.isFinished)
-                    Text('${match.homeScore}  –  ${match.awayScore}',
-                        style: theme.textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold))
-                  else
-                    Text('vs', style: theme.textTheme.bodyMedium),
+                  // Score or vs
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 10),
+                    child: match.isFinished
+                        ? Text('${match.homeScore}  –  ${match.awayScore}',
+                            style: theme.textTheme.titleMedium
+                                ?.copyWith(fontWeight: FontWeight.bold))
+                        : Text('vs', style: theme.textTheme.bodyMedium),
+                  ),
+                  // Away team
                   Expanded(
-                    child: Text(match.awayDisplay,
-                        textAlign: TextAlign.end,
-                        style: theme.textTheme.titleMedium?.copyWith(
-                            fontWeight: match.winnerTeamId == match.awayTeamId
-                                ? FontWeight.bold
-                                : FontWeight.normal)),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.end,
+                      children: [
+                        Expanded(
+                          child: Text(
+                            match.awayDisplay,
+                            textAlign: TextAlign.end,
+                            style: theme.textTheme.titleSmall?.copyWith(
+                              fontWeight: match.winnerTeamId == match.awayTeamId
+                                  ? FontWeight.bold
+                                  : FontWeight.normal,
+                            ),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                        const SizedBox(width: 6),
+                        TeamFlag(countryCode: match.awayTeamCountryCode, height: 16),
+                      ],
+                    ),
                   ),
                 ],
               ),
               const SizedBox(height: 6),
-              Text('$dateStr · $timeStr${match.venue != null ? ' · ${match.venue}' : ''}',
-                  style: theme.textTheme.bodySmall
-                      ?.copyWith(color: theme.colorScheme.onSurface.withAlpha(140))),
+              Text(
+                '$dateStr · $timeStr${match.venue != null ? ' · ${match.venue}' : ''}',
+                style: theme.textTheme.bodySmall
+                    ?.copyWith(color: theme.colorScheme.onSurface.withAlpha(140)),
+              ),
             ],
           ),
         ),
@@ -89,22 +123,23 @@ class MatchCard extends StatelessWidget {
     if (label.isEmpty) return const SizedBox.shrink();
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-      decoration: BoxDecoration(color: color.withAlpha(30), borderRadius: BorderRadius.circular(4),
+      decoration: BoxDecoration(
+          color: color.withAlpha(30),
+          borderRadius: BorderRadius.circular(4),
           border: Border.all(color: color.withAlpha(100))),
-      child: Text(label, style: TextStyle(fontSize: 11, color: color, fontWeight: FontWeight.bold)),
+      child: Text(label,
+          style: TextStyle(fontSize: 11, color: color, fontWeight: FontWeight.bold)),
     );
   }
 
-  String _stageLabel(String stage) {
-    return switch (stage) {
-      'GroupStage' => 'Group Stage',
-      'RoundOf32' => 'R32',
-      'RoundOf16' => 'R16',
-      'QuarterFinal' => 'QF',
-      'SemiFinal' => 'SF',
-      'ThirdPlacePlayoff' => '3rd Place',
-      'Final' => 'Final',
-      _ => stage,
-    };
-  }
+  String _stageLabel(String stage) => switch (stage) {
+        'GroupStage' => 'Group Stage',
+        'RoundOf32' => 'R32',
+        'RoundOf16' => 'R16',
+        'QuarterFinal' => 'QF',
+        'SemiFinal' => 'SF',
+        'ThirdPlacePlayoff' => '3rd Place',
+        'Final' => 'Final',
+        _ => stage,
+      };
 }

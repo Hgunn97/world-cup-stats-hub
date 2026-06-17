@@ -2,6 +2,7 @@ class GroupTableRow {
   final int position;
   final int teamId;
   final String teamName;
+  final String countryCode;
   final String groupCode;
   final int played;
   final int won;
@@ -16,6 +17,7 @@ class GroupTableRow {
       {required this.position,
       required this.teamId,
       required this.teamName,
+      required this.countryCode,
       required this.groupCode,
       required this.played,
       required this.won,
@@ -30,6 +32,7 @@ class GroupTableRow {
         position: json['position'] as int,
         teamId: json['teamId'] as int,
         teamName: json['teamName'] as String,
+        countryCode: json['countryCode'] as String? ?? '',
         groupCode: json['groupCode'] as String,
         played: json['played'] as int,
         won: json['won'] as int,

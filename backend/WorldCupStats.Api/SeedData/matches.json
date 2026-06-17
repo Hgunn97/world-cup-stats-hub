@@ -9,7 +9,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "Completed",
-    "kickOffUtc": "2026-06-11T19:00:00Z",
+    "kickOffUtc": "2026-06-11T18:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -24,7 +24,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-12T02:00:00Z",
+    "kickOffUtc": "2026-06-12T01:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -39,7 +39,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-12T19:00:00Z",
+    "kickOffUtc": "2026-06-12T18:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -54,7 +54,7 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-13T01:00:00Z",
+    "kickOffUtc": "2026-06-13T00:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -69,7 +69,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-13T19:00:00Z",
+    "kickOffUtc": "2026-06-13T18:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -84,7 +84,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-13T22:00:00Z",
+    "kickOffUtc": "2026-06-13T21:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -99,7 +99,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-14T01:00:00Z",
+    "kickOffUtc": "2026-06-14T00:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -114,7 +114,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "Completed",
-    "kickOffUtc": "2026-06-14T04:00:00Z",
+    "kickOffUtc": "2026-06-14T03:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -129,7 +129,7 @@
     "homeScore": 7,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-14T17:00:00Z",
+    "kickOffUtc": "2026-06-14T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -144,7 +144,7 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "Completed",
-    "kickOffUtc": "2026-06-14T20:00:00Z",
+    "kickOffUtc": "2026-06-14T19:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -159,7 +159,7 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "Completed",
-    "kickOffUtc": "2026-06-14T23:00:00Z",
+    "kickOffUtc": "2026-06-14T22:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -174,7 +174,7 @@
     "homeScore": 5,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-15T02:00:00Z",
+    "kickOffUtc": "2026-06-15T01:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -189,7 +189,7 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "Completed",
-    "kickOffUtc": "2026-06-15T16:00:00Z",
+    "kickOffUtc": "2026-06-15T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -204,7 +204,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-15T19:00:00Z",
+    "kickOffUtc": "2026-06-15T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -219,7 +219,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-15T22:00:00Z",
+    "kickOffUtc": "2026-06-15T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -234,7 +234,7 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "Completed",
-    "kickOffUtc": "2026-06-16T01:00:00Z",
+    "kickOffUtc": "2026-06-16T00:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -249,7 +249,7 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-16T19:00:00Z",
+    "kickOffUtc": "2026-06-16T18:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -264,7 +264,7 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "Completed",
-    "kickOffUtc": "2026-06-16T22:00:00Z",
+    "kickOffUtc": "2026-06-16T21:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -279,7 +279,7 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "Completed",
-    "kickOffUtc": "2026-06-17T01:00:00Z",
+    "kickOffUtc": "2026-06-17T00:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -294,7 +294,7 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "Completed",
-    "kickOffUtc": "2026-06-17T04:00:00Z",
+    "kickOffUtc": "2026-06-17T03:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -309,7 +309,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-17T17:00:00Z",
+    "kickOffUtc": "2026-06-17T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -324,7 +324,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-17T20:00:00Z",
+    "kickOffUtc": "2026-06-17T19:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -339,7 +339,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-17T23:00:00Z",
+    "kickOffUtc": "2026-06-17T22:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -354,7 +354,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-18T02:00:00Z",
+    "kickOffUtc": "2026-06-18T01:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -369,7 +369,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-18T16:00:00Z",
+    "kickOffUtc": "2026-06-18T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -384,7 +384,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-18T19:00:00Z",
+    "kickOffUtc": "2026-06-18T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -399,7 +399,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-18T22:00:00Z",
+    "kickOffUtc": "2026-06-18T21:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -414,7 +414,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-19T01:00:00Z",
+    "kickOffUtc": "2026-06-19T00:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -429,7 +429,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-19T19:00:00Z",
+    "kickOffUtc": "2026-06-19T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -444,7 +444,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-19T22:00:00Z",
+    "kickOffUtc": "2026-06-19T21:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -459,7 +459,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-20T00:30:00Z",
+    "kickOffUtc": "2026-06-19T23:30:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -474,7 +474,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-20T03:00:00Z",
+    "kickOffUtc": "2026-06-20T02:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -489,7 +489,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-20T17:00:00Z",
+    "kickOffUtc": "2026-06-20T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -504,7 +504,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-20T20:00:00Z",
+    "kickOffUtc": "2026-06-20T19:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -519,7 +519,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-21T00:00:00Z",
+    "kickOffUtc": "2026-06-20T23:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -534,7 +534,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-21T04:00:00Z",
+    "kickOffUtc": "2026-06-21T03:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -549,7 +549,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-21T16:00:00Z",
+    "kickOffUtc": "2026-06-21T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -564,7 +564,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-21T19:00:00Z",
+    "kickOffUtc": "2026-06-21T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -579,7 +579,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-21T22:00:00Z",
+    "kickOffUtc": "2026-06-21T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -594,7 +594,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-22T01:00:00Z",
+    "kickOffUtc": "2026-06-22T00:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -609,7 +609,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-22T17:00:00Z",
+    "kickOffUtc": "2026-06-22T16:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -624,7 +624,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-22T21:00:00Z",
+    "kickOffUtc": "2026-06-22T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -639,7 +639,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-23T00:00:00Z",
+    "kickOffUtc": "2026-06-22T23:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -654,7 +654,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-23T03:00:00Z",
+    "kickOffUtc": "2026-06-23T02:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -669,7 +669,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-23T17:00:00Z",
+    "kickOffUtc": "2026-06-23T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -684,7 +684,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-23T20:00:00Z",
+    "kickOffUtc": "2026-06-23T19:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -699,7 +699,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-23T23:00:00Z",
+    "kickOffUtc": "2026-06-23T22:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -714,7 +714,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-24T02:00:00Z",
+    "kickOffUtc": "2026-06-24T01:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -729,7 +729,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-24T19:00:00Z",
+    "kickOffUtc": "2026-06-24T18:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -744,7 +744,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-24T19:00:00Z",
+    "kickOffUtc": "2026-06-24T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -759,7 +759,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-24T22:00:00Z",
+    "kickOffUtc": "2026-06-24T21:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -774,7 +774,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-24T22:00:00Z",
+    "kickOffUtc": "2026-06-24T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -789,7 +789,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T01:00:00Z",
+    "kickOffUtc": "2026-06-25T00:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -804,7 +804,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T01:00:00Z",
+    "kickOffUtc": "2026-06-25T00:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -819,7 +819,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T20:00:00Z",
+    "kickOffUtc": "2026-06-25T19:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -834,7 +834,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T20:00:00Z",
+    "kickOffUtc": "2026-06-25T19:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -849,7 +849,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T23:00:00Z",
+    "kickOffUtc": "2026-06-25T22:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -864,7 +864,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-25T23:00:00Z",
+    "kickOffUtc": "2026-06-25T22:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -879,7 +879,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-26T02:00:00Z",
+    "kickOffUtc": "2026-06-26T01:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -894,7 +894,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-26T02:00:00Z",
+    "kickOffUtc": "2026-06-26T01:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -909,7 +909,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-26T19:00:00Z",
+    "kickOffUtc": "2026-06-26T18:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -924,7 +924,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-26T19:00:00Z",
+    "kickOffUtc": "2026-06-26T18:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -939,7 +939,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T00:00:00Z",
+    "kickOffUtc": "2026-06-26T23:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -954,7 +954,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T00:00:00Z",
+    "kickOffUtc": "2026-06-26T23:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -969,7 +969,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T03:00:00Z",
+    "kickOffUtc": "2026-06-27T02:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -984,7 +984,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T03:00:00Z",
+    "kickOffUtc": "2026-06-27T02:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -999,7 +999,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T21:00:00Z",
+    "kickOffUtc": "2026-06-27T20:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1014,7 +1014,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T21:00:00Z",
+    "kickOffUtc": "2026-06-27T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1029,7 +1029,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T23:30:00Z",
+    "kickOffUtc": "2026-06-27T22:30:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1044,7 +1044,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-27T23:30:00Z",
+    "kickOffUtc": "2026-06-27T22:30:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1059,7 +1059,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-28T02:00:00Z",
+    "kickOffUtc": "2026-06-28T01:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1074,7 +1074,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-28T02:00:00Z",
+    "kickOffUtc": "2026-06-28T01:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
     "awaySourceDescription": null
@@ -1089,7 +1089,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-28T19:00:00Z",
+    "kickOffUtc": "2026-06-28T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Runner-up Group A",
     "awaySourceDescription": "Runner-up Group B"
@@ -1104,7 +1104,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-29T20:30:00Z",
+    "kickOffUtc": "2026-06-29T19:30:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": "Winner Group E",
     "awaySourceDescription": "Best 3rd place Group A/B/C/D/F"
@@ -1119,7 +1119,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-30T01:00:00Z",
+    "kickOffUtc": "2026-06-30T00:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": "Winner Group F",
     "awaySourceDescription": "Runner-up Group C"
@@ -1134,7 +1134,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-29T17:00:00Z",
+    "kickOffUtc": "2026-06-29T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": "Winner Group C",
     "awaySourceDescription": "Runner-up Group F"
@@ -1149,7 +1149,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-30T21:00:00Z",
+    "kickOffUtc": "2026-06-30T20:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Group I",
     "awaySourceDescription": "Best 3rd place Group C/D/F/G/H"
@@ -1164,7 +1164,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-06-30T17:00:00Z",
+    "kickOffUtc": "2026-06-30T16:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Runner-up Group E",
     "awaySourceDescription": "Runner-up Group I"
@@ -1179,7 +1179,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-01T01:00:00Z",
+    "kickOffUtc": "2026-07-01T00:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": "Winner Group A",
     "awaySourceDescription": "Best 3rd place Group C/E/F/H/I"
@@ -1194,7 +1194,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-01T16:00:00Z",
+    "kickOffUtc": "2026-07-01T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Group L",
     "awaySourceDescription": "Best 3rd place Group E/H/I/J/K"
@@ -1209,7 +1209,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-02T00:00:00Z",
+    "kickOffUtc": "2026-07-01T23:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": "Winner Group D",
     "awaySourceDescription": "Best 3rd place Group B/E/F/I/J"
@@ -1224,7 +1224,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-01T20:00:00Z",
+    "kickOffUtc": "2026-07-01T19:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": "Winner Group G",
     "awaySourceDescription": "Best 3rd place Group A/E/H/I/J"
@@ -1239,7 +1239,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-02T23:00:00Z",
+    "kickOffUtc": "2026-07-02T22:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": "Runner-up Group K",
     "awaySourceDescription": "Runner-up Group L"
@@ -1254,7 +1254,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-02T19:00:00Z",
+    "kickOffUtc": "2026-07-02T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Winner Group H",
     "awaySourceDescription": "Runner-up Group J"
@@ -1269,7 +1269,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-03T03:00:00Z",
+    "kickOffUtc": "2026-07-03T02:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": "Winner Group B",
     "awaySourceDescription": "Best 3rd place Group E/F/G/I/J"
@@ -1284,7 +1284,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-03T22:00:00Z",
+    "kickOffUtc": "2026-07-03T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Winner Group J",
     "awaySourceDescription": "Runner-up Group H"
@@ -1299,7 +1299,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-04T01:30:00Z",
+    "kickOffUtc": "2026-07-04T00:30:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": "Winner Group K",
     "awaySourceDescription": "Best 3rd place Group D/E/I/J/L"
@@ -1314,7 +1314,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-03T18:00:00Z",
+    "kickOffUtc": "2026-07-03T17:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Runner-up Group D",
     "awaySourceDescription": "Runner-up Group G"
@@ -1329,7 +1329,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-04T21:00:00Z",
+    "kickOffUtc": "2026-07-04T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": "Winner Match 74",
     "awaySourceDescription": "Winner Match 77"
@@ -1344,7 +1344,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-04T17:00:00Z",
+    "kickOffUtc": "2026-07-04T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": "Winner Match 73",
     "awaySourceDescription": "Winner Match 75"
@@ -1359,7 +1359,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-05T20:00:00Z",
+    "kickOffUtc": "2026-07-05T19:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Match 76",
     "awaySourceDescription": "Winner Match 78"
@@ -1374,7 +1374,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-06T00:00:00Z",
+    "kickOffUtc": "2026-07-05T23:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": "Winner Match 79",
     "awaySourceDescription": "Winner Match 80"
@@ -1389,7 +1389,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-06T19:00:00Z",
+    "kickOffUtc": "2026-07-06T18:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Winner Match 83",
     "awaySourceDescription": "Winner Match 84"
@@ -1404,7 +1404,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-07T00:00:00Z",
+    "kickOffUtc": "2026-07-06T23:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": "Winner Match 81",
     "awaySourceDescription": "Winner Match 82"
@@ -1419,7 +1419,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-07T16:00:00Z",
+    "kickOffUtc": "2026-07-07T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Match 86",
     "awaySourceDescription": "Winner Match 88"
@@ -1434,7 +1434,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-07T20:00:00Z",
+    "kickOffUtc": "2026-07-07T19:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": "Winner Match 85",
     "awaySourceDescription": "Winner Match 87"
@@ -1449,7 +1449,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-09T20:00:00Z",
+    "kickOffUtc": "2026-07-09T19:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": "Winner Match 89",
     "awaySourceDescription": "Winner Match 90"
@@ -1464,7 +1464,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-10T19:00:00Z",
+    "kickOffUtc": "2026-07-10T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Winner Match 93",
     "awaySourceDescription": "Winner Match 94"
@@ -1479,7 +1479,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-11T21:00:00Z",
+    "kickOffUtc": "2026-07-11T20:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Winner Match 91",
     "awaySourceDescription": "Winner Match 92"
@@ -1494,7 +1494,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-12T01:00:00Z",
+    "kickOffUtc": "2026-07-12T00:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": "Winner Match 95",
     "awaySourceDescription": "Winner Match 96"
@@ -1509,7 +1509,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-14T19:00:00Z",
+    "kickOffUtc": "2026-07-14T18:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Winner Match 97",
     "awaySourceDescription": "Winner Match 98"
@@ -1524,7 +1524,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-15T19:00:00Z",
+    "kickOffUtc": "2026-07-15T18:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Match 99",
     "awaySourceDescription": "Winner Match 100"
@@ -1539,7 +1539,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-18T21:00:00Z",
+    "kickOffUtc": "2026-07-18T20:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Loser Match 101",
     "awaySourceDescription": "Loser Match 102"
@@ -1554,7 +1554,7 @@
     "homeScore": null,
     "awayScore": null,
     "status": "Scheduled",
-    "kickOffUtc": "2026-07-19T19:00:00Z",
+    "kickOffUtc": "2026-07-19T18:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Match 101",
     "awaySourceDescription": "Winner Match 102"
