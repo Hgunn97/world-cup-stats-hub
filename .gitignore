@@ -1,0 +1,12 @@
+backend/WorldCupStats.Api/worldcup.db
+**/bin/
+**/obj/
+**/build/
+**/.dart_tool/
+**/flutter_export_environment.sh
+**/*.user
+.env
+*.env
+.idea
+.DS_Store
+backend/WorldCupStats.Api/appsettings.Development.json

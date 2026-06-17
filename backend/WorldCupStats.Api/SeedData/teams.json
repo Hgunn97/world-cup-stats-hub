@@ -1,0 +1,61 @@
+[
+  { "id": 1,  "name": "Mexico",                 "countryCode": "MEX", "groupCode": "A", "flagUrl": null },
+  { "id": 2,  "name": "Czech Republic",         "countryCode": "CZE", "groupCode": "A", "flagUrl": null },
+  { "id": 3,  "name": "South Africa",           "countryCode": "RSA", "groupCode": "A", "flagUrl": null },
+  { "id": 4,  "name": "South Korea",            "countryCode": "KOR", "groupCode": "A", "flagUrl": null },
+
+  { "id": 5,  "name": "Canada",                 "countryCode": "CAN", "groupCode": "B", "flagUrl": null },
+  { "id": 6,  "name": "Bosnia and Herzegovina", "countryCode": "BIH", "groupCode": "B", "flagUrl": null },
+  { "id": 7,  "name": "Qatar",                  "countryCode": "QAT", "groupCode": "B", "flagUrl": null },
+  { "id": 8,  "name": "Switzerland",            "countryCode": "SUI", "groupCode": "B", "flagUrl": null },
+
+  { "id": 9,  "name": "Brazil",                 "countryCode": "BRA", "groupCode": "C", "flagUrl": null },
+  { "id": 10, "name": "Haiti",                  "countryCode": "HAI", "groupCode": "C", "flagUrl": null },
+  { "id": 11, "name": "Morocco",                "countryCode": "MAR", "groupCode": "C", "flagUrl": null },
+  { "id": 12, "name": "Scotland",               "countryCode": "SCO", "groupCode": "C", "flagUrl": null },
+
+  { "id": 13, "name": "United States",          "countryCode": "USA", "groupCode": "D", "flagUrl": null },
+  { "id": 14, "name": "Australia",              "countryCode": "AUS", "groupCode": "D", "flagUrl": null },
+  { "id": 15, "name": "Paraguay",               "countryCode": "PAR", "groupCode": "D", "flagUrl": null },
+  { "id": 16, "name": "Turkey",                 "countryCode": "TUR", "groupCode": "D", "flagUrl": null },
+
+  { "id": 17, "name": "Curacao",                "countryCode": "CUW", "groupCode": "E", "flagUrl": null },
+  { "id": 18, "name": "Ecuador",                "countryCode": "ECU", "groupCode": "E", "flagUrl": null },
+  { "id": 19, "name": "Germany",                "countryCode": "GER", "groupCode": "E", "flagUrl": null },
+  { "id": 20, "name": "Ivory Coast",            "countryCode": "CIV", "groupCode": "E", "flagUrl": null },
+
+  { "id": 21, "name": "Netherlands",            "countryCode": "NED", "groupCode": "F", "flagUrl": null },
+  { "id": 22, "name": "Japan",                  "countryCode": "JPN", "groupCode": "F", "flagUrl": null },
+  { "id": 23, "name": "Sweden",                 "countryCode": "SWE", "groupCode": "F", "flagUrl": null },
+  { "id": 24, "name": "Tunisia",                "countryCode": "TUN", "groupCode": "F", "flagUrl": null },
+
+  { "id": 25, "name": "Belgium",                "countryCode": "BEL", "groupCode": "G", "flagUrl": null },
+  { "id": 26, "name": "Egypt",                  "countryCode": "EGY", "groupCode": "G", "flagUrl": null },
+  { "id": 27, "name": "Iran",                   "countryCode": "IRN", "groupCode": "G", "flagUrl": null },
+  { "id": 28, "name": "New Zealand",            "countryCode": "NZL", "groupCode": "G", "flagUrl": null },
+
+  { "id": 29, "name": "Cape Verde",             "countryCode": "CPV", "groupCode": "H", "flagUrl": null },
+  { "id": 30, "name": "Saudi Arabia",           "countryCode": "KSA", "groupCode": "H", "flagUrl": null },
+  { "id": 31, "name": "Spain",                  "countryCode": "ESP", "groupCode": "H", "flagUrl": null },
+  { "id": 32, "name": "Uruguay",                "countryCode": "URU", "groupCode": "H", "flagUrl": null },
+
+  { "id": 33, "name": "France",                 "countryCode": "FRA", "groupCode": "I", "flagUrl": null },
+  { "id": 34, "name": "Norway",                 "countryCode": "NOR", "groupCode": "I", "flagUrl": null },
+  { "id": 35, "name": "Senegal",                "countryCode": "SEN", "groupCode": "I", "flagUrl": null },
+  { "id": 36, "name": "Iraq",                   "countryCode": "IRQ", "groupCode": "I", "flagUrl": null },
+
+  { "id": 37, "name": "Algeria",                "countryCode": "ALG", "groupCode": "J", "flagUrl": null },
+  { "id": 38, "name": "Argentina",              "countryCode": "ARG", "groupCode": "J", "flagUrl": null },
+  { "id": 39, "name": "Austria",                "countryCode": "AUT", "groupCode": "J", "flagUrl": null },
+  { "id": 40, "name": "Jordan",                 "countryCode": "JOR", "groupCode": "J", "flagUrl": null },
+
+  { "id": 41, "name": "Colombia",               "countryCode": "COL", "groupCode": "K", "flagUrl": null },
+  { "id": 42, "name": "DR Congo",               "countryCode": "COD", "groupCode": "K", "flagUrl": null },
+  { "id": 43, "name": "Portugal",               "countryCode": "POR", "groupCode": "K", "flagUrl": null },
+  { "id": 44, "name": "Uzbekistan",             "countryCode": "UZB", "groupCode": "K", "flagUrl": null },
+
+  { "id": 45, "name": "Croatia",                "countryCode": "CRO", "groupCode": "L", "flagUrl": null },
+  { "id": 46, "name": "England",                "countryCode": "ENG", "groupCode": "L", "flagUrl": null },
+  { "id": 47, "name": "Ghana",                  "countryCode": "GHA", "groupCode": "L", "flagUrl": null },
+  { "id": 48, "name": "Panama",                 "countryCode": "PAN", "groupCode": "L", "flagUrl": null }
+]
