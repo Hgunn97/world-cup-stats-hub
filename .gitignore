@@ -10,3 +10,5 @@ backend/WorldCupStats.Api/worldcup.db
 .idea
 .DS_Store
 backend/WorldCupStats.Api/appsettings.Development.json
+backend/WorldCupStats.Api/worldcup.db-shm
+backend/WorldCupStats.Api/worldcup.db-wal

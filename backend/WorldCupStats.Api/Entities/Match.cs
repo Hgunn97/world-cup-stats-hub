@@ -27,4 +27,12 @@ public class Match
 
     public string? HomeSourceDescription { get; set; }
     public string? AwaySourceDescription { get; set; }
+
+    // Knockout progression: where the winner of this match goes next
+    public int? WinnerAdvancesToMatchNumber { get; set; }
+    public string? WinnerAdvancesToSlot { get; set; }  // "home" | "away"
+
+    // Semi-finals only: where the loser goes (3rd place match)
+    public int? LoserAdvancesToMatchNumber { get; set; }
+    public string? LoserAdvancesToSlot { get; set; }   // "home" | "away"
 }

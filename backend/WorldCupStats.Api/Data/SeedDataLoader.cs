@@ -46,7 +46,11 @@ public static class SeedDataLoader
                 KickOffUtc = seed.KickOffUtc,
                 Venue = seed.Venue,
                 HomeSourceDescription = seed.HomeSourceDescription,
-                AwaySourceDescription = seed.AwaySourceDescription
+                AwaySourceDescription = seed.AwaySourceDescription,
+                WinnerAdvancesToMatchNumber = seed.WinnerAdvancesToMatchNumber,
+                WinnerAdvancesToSlot = seed.WinnerAdvancesToSlot,
+                LoserAdvancesToMatchNumber = seed.LoserAdvancesToMatchNumber,
+                LoserAdvancesToSlot = seed.LoserAdvancesToSlot,
             });
         }
 
@@ -89,5 +93,9 @@ public static class SeedDataLoader
         public string? Venue { get; set; }
         public string? HomeSourceDescription { get; set; }
         public string? AwaySourceDescription { get; set; }
+        public int? WinnerAdvancesToMatchNumber { get; set; }
+        public string? WinnerAdvancesToSlot { get; set; }
+        public int? LoserAdvancesToMatchNumber { get; set; }
+        public string? LoserAdvancesToSlot { get; set; }
     }
 }

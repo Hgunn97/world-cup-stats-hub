@@ -12,7 +12,11 @@
     "kickOffUtc": "2026-06-11T18:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 2,
@@ -27,7 +31,11 @@
     "kickOffUtc": "2026-06-12T01:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 3,
@@ -42,7 +50,11 @@
     "kickOffUtc": "2026-06-12T18:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 4,
@@ -57,7 +69,11 @@
     "kickOffUtc": "2026-06-13T00:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 5,
@@ -72,7 +88,11 @@
     "kickOffUtc": "2026-06-13T18:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 6,
@@ -87,7 +107,11 @@
     "kickOffUtc": "2026-06-13T21:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 7,
@@ -102,7 +126,11 @@
     "kickOffUtc": "2026-06-14T00:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 8,
@@ -117,7 +145,11 @@
     "kickOffUtc": "2026-06-14T03:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 9,
@@ -132,7 +164,11 @@
     "kickOffUtc": "2026-06-14T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 10,
@@ -147,7 +183,11 @@
     "kickOffUtc": "2026-06-14T19:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 11,
@@ -162,7 +202,11 @@
     "kickOffUtc": "2026-06-14T22:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 12,
@@ -177,7 +221,11 @@
     "kickOffUtc": "2026-06-15T01:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 13,
@@ -192,7 +240,11 @@
     "kickOffUtc": "2026-06-15T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 14,
@@ -207,7 +259,11 @@
     "kickOffUtc": "2026-06-15T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 15,
@@ -222,7 +278,11 @@
     "kickOffUtc": "2026-06-15T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 16,
@@ -237,7 +297,11 @@
     "kickOffUtc": "2026-06-16T00:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 17,
@@ -252,7 +316,11 @@
     "kickOffUtc": "2026-06-16T18:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 18,
@@ -267,7 +335,11 @@
     "kickOffUtc": "2026-06-16T21:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 19,
@@ -282,7 +354,11 @@
     "kickOffUtc": "2026-06-17T00:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 20,
@@ -297,7 +373,11 @@
     "kickOffUtc": "2026-06-17T03:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 21,
@@ -306,13 +386,17 @@
     "groupCode": "K",
     "homeTeamId": 43,
     "awayTeamId": 42,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-17T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 22,
@@ -321,13 +405,17 @@
     "groupCode": "L",
     "homeTeamId": 46,
     "awayTeamId": 45,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 4,
+    "awayScore": 2,
+    "status": "Completed",
     "kickOffUtc": "2026-06-17T19:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 23,
@@ -336,13 +424,17 @@
     "groupCode": "L",
     "homeTeamId": 47,
     "awayTeamId": 48,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-17T22:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 24,
@@ -351,13 +443,17 @@
     "groupCode": "K",
     "homeTeamId": 44,
     "awayTeamId": 41,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "Completed",
     "kickOffUtc": "2026-06-18T01:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 25,
@@ -366,13 +462,17 @@
     "groupCode": "A",
     "homeTeamId": 2,
     "awayTeamId": 3,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-18T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 26,
@@ -381,13 +481,17 @@
     "groupCode": "B",
     "homeTeamId": 8,
     "awayTeamId": 6,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-18T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 27,
@@ -396,13 +500,17 @@
     "groupCode": "B",
     "homeTeamId": 5,
     "awayTeamId": 7,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 6,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-18T21:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 28,
@@ -411,13 +519,17 @@
     "groupCode": "A",
     "homeTeamId": 1,
     "awayTeamId": 4,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-19T00:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 29,
@@ -426,13 +538,17 @@
     "groupCode": "D",
     "homeTeamId": 13,
     "awayTeamId": 14,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-19T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 30,
@@ -441,13 +557,17 @@
     "groupCode": "C",
     "homeTeamId": 12,
     "awayTeamId": 11,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-19T21:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 31,
@@ -456,13 +576,17 @@
     "groupCode": "C",
     "homeTeamId": 9,
     "awayTeamId": 10,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-19T23:30:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 32,
@@ -471,13 +595,17 @@
     "groupCode": "D",
     "homeTeamId": 16,
     "awayTeamId": 15,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-20T02:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 33,
@@ -486,13 +614,17 @@
     "groupCode": "F",
     "homeTeamId": 21,
     "awayTeamId": 23,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-20T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 34,
@@ -501,13 +633,17 @@
     "groupCode": "E",
     "homeTeamId": 19,
     "awayTeamId": 20,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "Completed",
     "kickOffUtc": "2026-06-20T19:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 35,
@@ -516,13 +652,17 @@
     "groupCode": "E",
     "homeTeamId": 18,
     "awayTeamId": 17,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-20T23:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 36,
@@ -531,13 +671,17 @@
     "groupCode": "F",
     "homeTeamId": 24,
     "awayTeamId": 22,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "Completed",
     "kickOffUtc": "2026-06-21T03:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 37,
@@ -546,13 +690,17 @@
     "groupCode": "H",
     "homeTeamId": 31,
     "awayTeamId": 30,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 4,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-21T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 38,
@@ -561,13 +709,17 @@
     "groupCode": "G",
     "homeTeamId": 25,
     "awayTeamId": 27,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "Completed",
     "kickOffUtc": "2026-06-21T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 39,
@@ -576,13 +728,17 @@
     "groupCode": "H",
     "homeTeamId": 32,
     "awayTeamId": 29,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "Completed",
     "kickOffUtc": "2026-06-21T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 40,
@@ -591,13 +747,17 @@
     "groupCode": "G",
     "homeTeamId": 28,
     "awayTeamId": 26,
-    "homeScore": null,
-    "awayScore": null,
-    "status": "Scheduled",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "Completed",
     "kickOffUtc": "2026-06-22T00:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 41,
@@ -612,7 +772,11 @@
     "kickOffUtc": "2026-06-22T16:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 42,
@@ -627,7 +791,11 @@
     "kickOffUtc": "2026-06-22T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 43,
@@ -642,7 +810,11 @@
     "kickOffUtc": "2026-06-22T23:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 44,
@@ -657,7 +829,11 @@
     "kickOffUtc": "2026-06-23T02:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 45,
@@ -672,7 +848,11 @@
     "kickOffUtc": "2026-06-23T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 46,
@@ -687,7 +867,11 @@
     "kickOffUtc": "2026-06-23T19:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 47,
@@ -702,7 +886,11 @@
     "kickOffUtc": "2026-06-23T22:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 48,
@@ -717,7 +905,11 @@
     "kickOffUtc": "2026-06-24T01:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 49,
@@ -732,7 +924,11 @@
     "kickOffUtc": "2026-06-24T18:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 50,
@@ -747,7 +943,11 @@
     "kickOffUtc": "2026-06-24T18:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 51,
@@ -762,7 +962,11 @@
     "kickOffUtc": "2026-06-24T21:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 52,
@@ -777,7 +981,11 @@
     "kickOffUtc": "2026-06-24T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 53,
@@ -792,7 +1000,11 @@
     "kickOffUtc": "2026-06-25T00:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 54,
@@ -807,7 +1019,11 @@
     "kickOffUtc": "2026-06-25T00:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 55,
@@ -822,7 +1038,11 @@
     "kickOffUtc": "2026-06-25T19:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 56,
@@ -837,7 +1057,11 @@
     "kickOffUtc": "2026-06-25T19:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 57,
@@ -852,7 +1076,11 @@
     "kickOffUtc": "2026-06-25T22:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 58,
@@ -867,7 +1095,11 @@
     "kickOffUtc": "2026-06-25T22:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 59,
@@ -882,7 +1114,11 @@
     "kickOffUtc": "2026-06-26T01:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 60,
@@ -897,7 +1133,11 @@
     "kickOffUtc": "2026-06-26T01:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 61,
@@ -912,7 +1152,11 @@
     "kickOffUtc": "2026-06-26T18:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 62,
@@ -927,7 +1171,11 @@
     "kickOffUtc": "2026-06-26T18:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 63,
@@ -942,7 +1190,11 @@
     "kickOffUtc": "2026-06-26T23:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 64,
@@ -957,7 +1209,11 @@
     "kickOffUtc": "2026-06-26T23:00:00Z",
     "venue": "Estadio Akron",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 65,
@@ -972,7 +1228,11 @@
     "kickOffUtc": "2026-06-27T02:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 66,
@@ -987,7 +1247,11 @@
     "kickOffUtc": "2026-06-27T02:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 67,
@@ -1002,7 +1266,11 @@
     "kickOffUtc": "2026-06-27T20:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 68,
@@ -1017,7 +1285,11 @@
     "kickOffUtc": "2026-06-27T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 69,
@@ -1032,7 +1304,11 @@
     "kickOffUtc": "2026-06-27T22:30:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 70,
@@ -1047,7 +1323,11 @@
     "kickOffUtc": "2026-06-27T22:30:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 71,
@@ -1062,7 +1342,11 @@
     "kickOffUtc": "2026-06-28T01:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 72,
@@ -1077,7 +1361,11 @@
     "kickOffUtc": "2026-06-28T01:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": null,
-    "awaySourceDescription": null
+    "awaySourceDescription": null,
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 73,
@@ -1092,7 +1380,11 @@
     "kickOffUtc": "2026-06-28T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Runner-up Group A",
-    "awaySourceDescription": "Runner-up Group B"
+    "awaySourceDescription": "Runner-up Group B",
+    "winnerAdvancesToMatchNumber": 90,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 74,
@@ -1107,7 +1399,11 @@
     "kickOffUtc": "2026-06-29T19:30:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": "Winner Group E",
-    "awaySourceDescription": "Best 3rd place Group A/B/C/D/F"
+    "awaySourceDescription": "Best 3rd place Group A/B/C/D/F",
+    "winnerAdvancesToMatchNumber": 89,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 75,
@@ -1122,7 +1418,11 @@
     "kickOffUtc": "2026-06-30T00:00:00Z",
     "venue": "Estadio BBVA",
     "homeSourceDescription": "Winner Group F",
-    "awaySourceDescription": "Runner-up Group C"
+    "awaySourceDescription": "Runner-up Group C",
+    "winnerAdvancesToMatchNumber": 90,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 76,
@@ -1137,7 +1437,11 @@
     "kickOffUtc": "2026-06-29T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": "Winner Group C",
-    "awaySourceDescription": "Runner-up Group F"
+    "awaySourceDescription": "Runner-up Group F",
+    "winnerAdvancesToMatchNumber": 91,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 77,
@@ -1152,7 +1456,11 @@
     "kickOffUtc": "2026-06-30T20:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Group I",
-    "awaySourceDescription": "Best 3rd place Group C/D/F/G/H"
+    "awaySourceDescription": "Best 3rd place Group C/D/F/G/H",
+    "winnerAdvancesToMatchNumber": 89,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 78,
@@ -1167,7 +1475,11 @@
     "kickOffUtc": "2026-06-30T16:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Runner-up Group E",
-    "awaySourceDescription": "Runner-up Group I"
+    "awaySourceDescription": "Runner-up Group I",
+    "winnerAdvancesToMatchNumber": 91,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 79,
@@ -1182,7 +1494,11 @@
     "kickOffUtc": "2026-07-01T00:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": "Winner Group A",
-    "awaySourceDescription": "Best 3rd place Group C/E/F/H/I"
+    "awaySourceDescription": "Best 3rd place Group C/E/F/H/I",
+    "winnerAdvancesToMatchNumber": 92,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 80,
@@ -1197,7 +1513,11 @@
     "kickOffUtc": "2026-07-01T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Group L",
-    "awaySourceDescription": "Best 3rd place Group E/H/I/J/K"
+    "awaySourceDescription": "Best 3rd place Group E/H/I/J/K",
+    "winnerAdvancesToMatchNumber": 92,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 81,
@@ -1212,7 +1532,11 @@
     "kickOffUtc": "2026-07-01T23:00:00Z",
     "venue": "Levi's Stadium",
     "homeSourceDescription": "Winner Group D",
-    "awaySourceDescription": "Best 3rd place Group B/E/F/I/J"
+    "awaySourceDescription": "Best 3rd place Group B/E/F/I/J",
+    "winnerAdvancesToMatchNumber": 94,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 82,
@@ -1227,7 +1551,11 @@
     "kickOffUtc": "2026-07-01T19:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": "Winner Group G",
-    "awaySourceDescription": "Best 3rd place Group A/E/H/I/J"
+    "awaySourceDescription": "Best 3rd place Group A/E/H/I/J",
+    "winnerAdvancesToMatchNumber": 94,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 83,
@@ -1242,7 +1570,11 @@
     "kickOffUtc": "2026-07-02T22:00:00Z",
     "venue": "BMO Field",
     "homeSourceDescription": "Runner-up Group K",
-    "awaySourceDescription": "Runner-up Group L"
+    "awaySourceDescription": "Runner-up Group L",
+    "winnerAdvancesToMatchNumber": 93,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 84,
@@ -1257,7 +1589,11 @@
     "kickOffUtc": "2026-07-02T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Winner Group H",
-    "awaySourceDescription": "Runner-up Group J"
+    "awaySourceDescription": "Runner-up Group J",
+    "winnerAdvancesToMatchNumber": 93,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 85,
@@ -1272,7 +1608,11 @@
     "kickOffUtc": "2026-07-03T02:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": "Winner Group B",
-    "awaySourceDescription": "Best 3rd place Group E/F/G/I/J"
+    "awaySourceDescription": "Best 3rd place Group E/F/G/I/J",
+    "winnerAdvancesToMatchNumber": 96,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 86,
@@ -1287,7 +1627,11 @@
     "kickOffUtc": "2026-07-03T21:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Winner Group J",
-    "awaySourceDescription": "Runner-up Group H"
+    "awaySourceDescription": "Runner-up Group H",
+    "winnerAdvancesToMatchNumber": 95,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 87,
@@ -1302,7 +1646,11 @@
     "kickOffUtc": "2026-07-04T00:30:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": "Winner Group K",
-    "awaySourceDescription": "Best 3rd place Group D/E/I/J/L"
+    "awaySourceDescription": "Best 3rd place Group D/E/I/J/L",
+    "winnerAdvancesToMatchNumber": 96,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 88,
@@ -1317,7 +1665,11 @@
     "kickOffUtc": "2026-07-03T17:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Runner-up Group D",
-    "awaySourceDescription": "Runner-up Group G"
+    "awaySourceDescription": "Runner-up Group G",
+    "winnerAdvancesToMatchNumber": 95,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 89,
@@ -1332,7 +1684,11 @@
     "kickOffUtc": "2026-07-04T20:00:00Z",
     "venue": "Lincoln Financial Field",
     "homeSourceDescription": "Winner Match 74",
-    "awaySourceDescription": "Winner Match 77"
+    "awaySourceDescription": "Winner Match 77",
+    "winnerAdvancesToMatchNumber": 97,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 90,
@@ -1347,7 +1703,11 @@
     "kickOffUtc": "2026-07-04T16:00:00Z",
     "venue": "NRG Stadium",
     "homeSourceDescription": "Winner Match 73",
-    "awaySourceDescription": "Winner Match 75"
+    "awaySourceDescription": "Winner Match 75",
+    "winnerAdvancesToMatchNumber": 97,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 91,
@@ -1362,7 +1722,11 @@
     "kickOffUtc": "2026-07-05T19:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Match 76",
-    "awaySourceDescription": "Winner Match 78"
+    "awaySourceDescription": "Winner Match 78",
+    "winnerAdvancesToMatchNumber": 99,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 92,
@@ -1377,7 +1741,11 @@
     "kickOffUtc": "2026-07-05T23:00:00Z",
     "venue": "Estadio Azteca",
     "homeSourceDescription": "Winner Match 79",
-    "awaySourceDescription": "Winner Match 80"
+    "awaySourceDescription": "Winner Match 80",
+    "winnerAdvancesToMatchNumber": 99,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 93,
@@ -1392,7 +1760,11 @@
     "kickOffUtc": "2026-07-06T18:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Winner Match 83",
-    "awaySourceDescription": "Winner Match 84"
+    "awaySourceDescription": "Winner Match 84",
+    "winnerAdvancesToMatchNumber": 98,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 94,
@@ -1407,7 +1779,11 @@
     "kickOffUtc": "2026-07-06T23:00:00Z",
     "venue": "Lumen Field",
     "homeSourceDescription": "Winner Match 81",
-    "awaySourceDescription": "Winner Match 82"
+    "awaySourceDescription": "Winner Match 82",
+    "winnerAdvancesToMatchNumber": 98,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 95,
@@ -1422,7 +1798,11 @@
     "kickOffUtc": "2026-07-07T15:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Match 86",
-    "awaySourceDescription": "Winner Match 88"
+    "awaySourceDescription": "Winner Match 88",
+    "winnerAdvancesToMatchNumber": 100,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 96,
@@ -1437,7 +1817,11 @@
     "kickOffUtc": "2026-07-07T19:00:00Z",
     "venue": "BC Place",
     "homeSourceDescription": "Winner Match 85",
-    "awaySourceDescription": "Winner Match 87"
+    "awaySourceDescription": "Winner Match 87",
+    "winnerAdvancesToMatchNumber": 100,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 97,
@@ -1452,7 +1836,11 @@
     "kickOffUtc": "2026-07-09T19:00:00Z",
     "venue": "Gillette Stadium",
     "homeSourceDescription": "Winner Match 89",
-    "awaySourceDescription": "Winner Match 90"
+    "awaySourceDescription": "Winner Match 90",
+    "winnerAdvancesToMatchNumber": 101,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 98,
@@ -1467,7 +1855,11 @@
     "kickOffUtc": "2026-07-10T18:00:00Z",
     "venue": "SoFi Stadium",
     "homeSourceDescription": "Winner Match 93",
-    "awaySourceDescription": "Winner Match 94"
+    "awaySourceDescription": "Winner Match 94",
+    "winnerAdvancesToMatchNumber": 101,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 99,
@@ -1482,7 +1874,11 @@
     "kickOffUtc": "2026-07-11T20:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Winner Match 91",
-    "awaySourceDescription": "Winner Match 92"
+    "awaySourceDescription": "Winner Match 92",
+    "winnerAdvancesToMatchNumber": 102,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 100,
@@ -1497,7 +1893,11 @@
     "kickOffUtc": "2026-07-12T00:00:00Z",
     "venue": "Arrowhead Stadium",
     "homeSourceDescription": "Winner Match 95",
-    "awaySourceDescription": "Winner Match 96"
+    "awaySourceDescription": "Winner Match 96",
+    "winnerAdvancesToMatchNumber": 102,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 101,
@@ -1512,7 +1912,11 @@
     "kickOffUtc": "2026-07-14T18:00:00Z",
     "venue": "AT&T Stadium",
     "homeSourceDescription": "Winner Match 97",
-    "awaySourceDescription": "Winner Match 98"
+    "awaySourceDescription": "Winner Match 98",
+    "winnerAdvancesToMatchNumber": 104,
+    "winnerAdvancesToSlot": "home",
+    "loserAdvancesToMatchNumber": 103,
+    "loserAdvancesToSlot": "home"
   },
   {
     "id": 102,
@@ -1527,7 +1931,11 @@
     "kickOffUtc": "2026-07-15T18:00:00Z",
     "venue": "Mercedes-Benz Stadium",
     "homeSourceDescription": "Winner Match 99",
-    "awaySourceDescription": "Winner Match 100"
+    "awaySourceDescription": "Winner Match 100",
+    "winnerAdvancesToMatchNumber": 104,
+    "winnerAdvancesToSlot": "away",
+    "loserAdvancesToMatchNumber": 103,
+    "loserAdvancesToSlot": "away"
   },
   {
     "id": 103,
@@ -1542,7 +1950,11 @@
     "kickOffUtc": "2026-07-18T20:00:00Z",
     "venue": "Hard Rock Stadium",
     "homeSourceDescription": "Loser Match 101",
-    "awaySourceDescription": "Loser Match 102"
+    "awaySourceDescription": "Loser Match 102",
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   },
   {
     "id": 104,
@@ -1557,6 +1969,10 @@
     "kickOffUtc": "2026-07-19T18:00:00Z",
     "venue": "MetLife Stadium",
     "homeSourceDescription": "Winner Match 101",
-    "awaySourceDescription": "Winner Match 102"
+    "awaySourceDescription": "Winner Match 102",
+    "winnerAdvancesToMatchNumber": null,
+    "winnerAdvancesToSlot": null,
+    "loserAdvancesToMatchNumber": null,
+    "loserAdvancesToSlot": null
   }
 ]
