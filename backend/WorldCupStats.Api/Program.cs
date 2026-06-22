@@ -26,6 +26,7 @@ builder.Services.AddScoped<IGroupTableService, GroupTableService>();
 builder.Services.AddScoped<ITeamStatsService, TeamStatsService>();
 builder.Services.AddScoped<ITournamentSummaryService, TournamentSummaryService>();
 builder.Services.AddScoped<IWallChartService, WallChartService>();
+builder.Services.AddScoped<IKnockoutProgressionService, KnockoutProgressionService>();
 
 // ── CORS ──────────────────────────────────────────────────────────────────────
 builder.Services.AddCors(opts =>
