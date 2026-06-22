@@ -77,6 +77,13 @@ class ApiService {
   Future<WallChart> getWallChart() =>
       _get('/wall-chart', (j) => WallChart.fromJson(j as Map<String, dynamic>));
 
+  Future<void> recalculateKnockout() async {
+    final response = await _client.post(Uri.parse('$_baseUrl/knockout/recalculate'));
+    if (response.statusCode != 200) {
+      throw ApiException(response.statusCode, response.body);
+    }
+  }
+
   Future<Match> updateMatchResult(int matchId, int homeScore, int awayScore, {int? winnerTeamId}) async {
     final body = jsonEncode({
       'homeScore': homeScore,

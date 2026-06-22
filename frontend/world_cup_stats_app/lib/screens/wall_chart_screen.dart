@@ -46,6 +46,7 @@ class WallChartScreen extends StatefulWidget {
 class _WallChartScreenState extends State<WallChartScreen> {
   final _api = ApiService();
   late Future<_Data> _future;
+  bool _isRecalculating = false;
 
   @override
   void initState() {
@@ -58,6 +59,25 @@ class _WallChartScreenState extends State<WallChartScreen> {
             .then((r) => _Data(r[0] as List<GroupTable>, r[1] as WallChart));
       });
 
+  Future<void> _recalculate() async {
+    setState(() => _isRecalculating = true);
+    try {
+      await _api.recalculateKnockout();
+      if (!mounted) return;
+      _load();
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Bracket recalculated'), duration: Duration(seconds: 2)),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Recalculation failed: $e'), backgroundColor: Colors.red),
+      );
+    } finally {
+      if (mounted) setState(() => _isRecalculating = false);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -66,6 +86,23 @@ class _WallChartScreenState extends State<WallChartScreen> {
         title: const Text('Wall Chart'),
         backgroundColor: const Color(0xFF004B87),
         foregroundColor: Colors.white,
+        actions: [
+          if (_isRecalculating)
+            const Padding(
+              padding: EdgeInsets.symmetric(horizontal: 16),
+              child: SizedBox(
+                width: 20,
+                height: 20,
+                child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+              ),
+            )
+          else
+            IconButton(
+              icon: const Icon(Icons.refresh),
+              tooltip: 'Recalculate bracket',
+              onPressed: _recalculate,
+            ),
+        ],
       ),
       body: FutureBuilder<_Data>(
         future: _future,
